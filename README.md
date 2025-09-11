@@ -6,7 +6,7 @@ Developed custom enemy AI using NavMesh and state machines.
 
 Integrated particle effects, health systems, and animation controllers for smooth gameplay.
 
-==================================================================================================
+===================================================================================
 
 2. Tekken Fight (Fighting Game)
 
@@ -16,7 +16,7 @@ Built character selection, combo mechanics, health bars, and round-based logic.
 
 Utilized Unity’s Animator and blend trees for smooth character transitions.
 
-=============================================================================================
+======================================================================================
 
 3. Car Driving on Mountain
 
